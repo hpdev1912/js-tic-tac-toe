@@ -19,3 +19,6 @@ export function getGameStatusElement() {
 export function getReplayButtonElement() {
   return document.getElementById("replayGame");
 }
+export function getUlElement() {
+  return document.getElementById("cellList");
+}
